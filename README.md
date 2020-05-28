@@ -16,9 +16,9 @@ This is the first project of the Udacity Data Science Nanodegree Program.
 Fot the analysis I chose a publically available Dataset from Airbnb containing Data from Munich rentals.
 
 The key Questions of the ananlysis are:
-..1.Which neighbourhoods are the most expensive in Munich?
-..2.The “Oktoberfest effect”: Is there a time in the year when rentals in Munich are very expensive?
-..3.Is this effect the same for all rentals in all neighborhoods in Munich?
+### 1. Which neighbourhoods are the most expensive in Munich?
+### 2. The “Oktoberfest effect”: Is there a time in the year when rentals in Munich are very expensive?
+### 3. Is this effect the same for all rentals in all neighborhoods in Munich?
 
 This Project contains a jupyter notebook to showcsae all my work related to the three questions.
 
